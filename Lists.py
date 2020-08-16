@@ -32,7 +32,7 @@ print(l)
 
 #output-[1, 2, 3, 4]
 
-#2. add anywhere
+#2.add anywhere
 #use insert
 #insert(indexvalue,value)
 
